@@ -21,4 +21,4 @@ A deeper analysis reveals that the Bayesian approach (Laplace smoothing = 1) int
 ## Repository Contents
 * `Twits.csv`: The original dataset containing the tweets and their categories.
 * `Naive_Bayesian_data_filtering.Rmd`: The R Markdown file containing the full annotated code and methodology.
-* `Naive_Bayesian_data_filtering.html`: The compiled HTML report showing code outputs and visualizations.
+* `Naive_Bayesian_data_filtering.md`: The compiled HTML report showing code outputs and visualizations.
